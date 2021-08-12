@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/elipesodair/node-br/issues"
   },
-  "homepage": "https://github.com/elipesodair/node-br#readme"
+  "homepage": "https://github.com/elipesodair/node-br#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "nock": "^13.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.3"
+  }
 }
